@@ -1,4 +1,29 @@
 {
+
+  "windy": {
+    "errorType": "status_code",
+    "rank": 1655,
+    "url": "https://community.windy.com/user/{}",
+    "urlMain": "https://windy.com/",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+    "Suicide Girls members": {
+    "errorType": "status_code",
+    "rank": 30,
+    "url": "https://www.suicidegirls.com/members/{}/",
+    "urlmain": "https://www.suicidegirls.com",
+    "username_claimed": "brandie",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+    "Suicide Girls girls": {
+    "errorType": "status_code",
+    "rank": 30,
+    "url": "https://www.suicidegirls.com/girls/{}/",
+    "urlmain": "https://www.suicidegirls.com",
+    "username_claimed": "jenova",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
   "2Dimensions": {
     "errorType": "status_code",
     "rank": 212907,
@@ -2448,3 +2473,4 @@
     "username_unclaimed": "noonewouldeverusethis7"
   }
 }
+
